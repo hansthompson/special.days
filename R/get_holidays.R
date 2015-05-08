@@ -2,6 +2,7 @@
 #' 
 #' @param my_datetime An object of class POSIXct/POSIXt. 
 #' @return A character vector of holidays.
+#' @export
 #' @examples
 #' require(lubridate)
 #' get_holidays(ymd_hms("12-15-00 13:00:00"))
