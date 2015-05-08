@@ -1,0 +1,12 @@
+Package: special.days
+Type: Package
+Title: Find out if your dates fall on a special day (ie. Christmas, Easter, Halloween)
+Version: 0.1
+Date: 2015-05-08
+Author: Hans Thompson
+Maintainer: Hans Thompson <hans.thompson1@gmail.com>
+Description: Use this package to create your own holiday checking function or look for ones that already exist. 
+License: MIT
+Depends: R (>= 3.1.0)
+Imports:
+    lubridate
